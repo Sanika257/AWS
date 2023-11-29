@@ -77,7 +77,7 @@ In the IAM dashboard, click on "Users" in the left navigation pane.
                   
                    "Resource":[
                    
-                      "arn:aws:s3:::your-bucket-name/*"
+                      "arn:aws:s3:::app1/*"
                    ]
                    
                 
