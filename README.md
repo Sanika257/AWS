@@ -112,6 +112,11 @@ In the IAM dashboard, click on "Users" in the left navigation pane.
 
 -Install Node.js and npm: sudo yum install nodejs npm -y.
 
+
+
+
+Open a web browser and enter the S3 website endpoint provided in the "Static website hosting" tab. It should be something like http://your-bucket-name.s3-website-your-region.amazonaws.com
+
 -Copy your Node.js backend code to the EC2 instance, either manually or using tools like scp or version control systems like Git.
 
 -Start your Node.js application: node app.js (replace "app.js" with your main application file).
